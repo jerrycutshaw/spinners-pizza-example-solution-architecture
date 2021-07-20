@@ -1,2 +1,2 @@
-# spinners-example-solution-architecture
-example cloud solution architecture using a fictitious company called Spinners that wishes to offer a pizza delivery service
+# fabrikam-example-solution-architecture
+This repo holds an example solution architecture used as a solution architecture training guide.
